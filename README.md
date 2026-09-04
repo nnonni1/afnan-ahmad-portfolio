@@ -2,6 +2,12 @@
 
 Personal portfolio for Afnan Ahmad AlDuhaim — Technology Builder and Innovation Specialist. The site presents selected product, AI, IoT, robotics, training, and innovation-leadership work in an Arabic-first RTL experience.
 
+The portfolio also includes a dedicated **How I Create Value** section that translates technical capabilities into practical value for organizations across product development, AI and automation, emerging technology, connected systems, and technical project leadership.
+
+## Live portfolio
+
+[afnan-ahmad-portfolio.vercel.app](https://afnan-ahmad-portfolio.vercel.app)
+
 ## Stack
 
 - Next.js 16
